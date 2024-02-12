@@ -1,2 +1,2 @@
 # myplayground
-just for testing things
+just for test things
